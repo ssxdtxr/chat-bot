@@ -1,0 +1,13 @@
+.loadingBot {
+  display: flex;
+  gap: 13px;
+  margin-bottom: 20px;
+  .loading {
+    display: flex;
+    align-items: center;
+    background-color: rgba(34, 118, 245, 0.20);
+    padding: 12px 20px;
+    border-radius: 28px;
+
+  }
+}
